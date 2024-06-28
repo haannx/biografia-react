@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/biografia-react/static/js/main.bd5cae98.js",
+    "static/js/453.b7524fe2.chunk.js": "/biografia-react/static/js/453.b7524fe2.chunk.js",
+    "static/media/eu.png": "/biografia-react/static/media/eu.b5521048a05af4f4b43c.png",
+    "static/media/instagram.png": "/biografia-react/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/whatsapp.png": "/biografia-react/static/media/whatsapp.c339ff504121f060e736.png",
+    "static/media/github.png": "/biografia-react/static/media/github.44eee0c4a6c25b0d7347.png",
+    "index.html": "/biografia-react/index.html",
+    "main.bd5cae98.js.map": "/biografia-react/static/js/main.bd5cae98.js.map",
+    "453.b7524fe2.chunk.js.map": "/biografia-react/static/js/453.b7524fe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd5cae98.js"
+  ]
+}
